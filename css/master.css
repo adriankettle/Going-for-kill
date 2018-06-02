@@ -1,0 +1,14 @@
+#info{
+  background-color: steelblue;
+  color: white;
+  padding: 10px;
+  width: 100%;
+  height: 500px auto;
+}
+
+#btn{
+background-color: skyblue;
+padding: 5px;
+border-radius: 100%;
+color: white;
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "firstname":"Mellisa",
+    "lastname":"Bradley",
+    "address":"St Mary",
+    "age":18,
+    "city":"Kingston",
+    "country":"Jamaica",
+    "occupation":"Intern",
+    "hobbie":"Music, Writing"
+  },
+
+    {
+      "firstname":"Alicia",
+      "lastname":"Danvile",
+      "address":"Kingston",
+      "age":25,
+      "city":"Kingston",
+      "country":"Jamaica",
+      "occupation":"Teacher",
+      "hobbie":"Singing",
+      "favFood":"Fry Rice & Shrimp",
+      "favSpot":"Blue Mountain",
+    },
+
+      {
+        "firstname":"Dailia",
+        "lastname":"Grey",
+        "address":"St Catherine",
+        "age": 28,
+        "city":"Spanish Town",
+        "country":"Jamaica",
+        "occupation":"Lawyer"
+      },
+
+
+        {
+          "firstname":"",
+          "lastname":"",
+          "address":"",
+          "age":"",
+          "city":"",
+          "country":"Jamaica"
+        },
+
+          {
+            "firstname":"Latoya",
+            "lastname":"Blake",
+            "address":"Montego Bay",
+            "age":24,
+            "city":"Montego Bay",
+            "country":"Jamaica",
+            "favMusic":"Souls",
+            "favSpot":"Dunn's River Falls",
+            "hobbie":"Singing",
+            "occupation":"Nurse",
+          },
+
+
+            {
+              "firstname":"Georget",
+              "lastname":"Blaire",
+              "address":"Westmoreland",
+              "age":30,
+              "city":"Montego Bay",
+              "country":"Jamaica",
+              "occupation":"Helthcare Nurse"
+            }
+]

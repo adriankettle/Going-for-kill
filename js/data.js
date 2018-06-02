@@ -18,6 +18,6 @@ function showResult(str) {
     }
   }
 
-  xmlhttp.open("GET", "/php/livesearch.php?query="+str, true);
+  xmlhttp.open("GET", "php/livesearch.php?query="+str, true);
   xmlhttp.send();
 }
